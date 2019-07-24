@@ -40,6 +40,6 @@ end
 
 def add_s(array)
   array.each_with_index do |element, index| 
-  array
-  
+  array[0],[2][3] + "s"
+end 
   
