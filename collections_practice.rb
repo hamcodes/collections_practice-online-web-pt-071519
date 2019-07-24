@@ -26,11 +26,11 @@ end
 
 def kesha_maker(array)
   array.each do |a,b|
-    array.insert ( 2, "$" )
+    array.insert ( 2, '$' )
   end
 end
 end
-end
+
   
   
   
