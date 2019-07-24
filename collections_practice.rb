@@ -5,3 +5,7 @@ end
 end
 
 def sort_array_desc
+  array.sort.reverse do |a, b|
+  a <=> b
+end
+end
